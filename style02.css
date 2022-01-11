@@ -1,0 +1,29 @@
+.color-line{
+    color: red;
+}
+.half-width{
+    display: flex;
+    padding: 10%;
+}
+body{
+    font-family: 'Poppins', sans-serif;   
+}
+h1{
+font-size: 40px;
+}
+.left-heading{
+    border-left: solid,2px purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
